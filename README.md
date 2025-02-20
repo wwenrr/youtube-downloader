@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-![YouTube Downloader](https://github.com/wwenrr/youtube-downloader/raw/main/assets/acorn.png)
+![YouTube Downloader](https://github.com/wwenrr/youtube-downloader/releases)
 
 YouTube Downloader là một ứng dụng mạnh mẽ giúp bạn tải video và âm thanh từ YouTube với nhiều tùy chọn chất lượng khác nhau.
 
