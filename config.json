@@ -1,0 +1,4 @@
+{
+    "ffmpeg-location": "resources/ffmpeg.exe",
+    "yt-dlp-location": "resources/yt-dlp.exe"
+}
