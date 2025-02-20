@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='ytb_downloader',
+    name='app',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
@@ -35,7 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=r"C:\Users\qscvd\GitHub\youtube-downloader\assets\img\acorn.ico"
+    icon=['C:\\Users\\qscvd\\GitHub\\youtube-downloader\\assets\\img\\acorn.ico'],
 )
-
-pyinstaller.exe --onefile --noconsole --name=app --icon="C:\Users\qscvd\GitHub\youtube-downloader\assets\img\acorn.ico" src/run.py
